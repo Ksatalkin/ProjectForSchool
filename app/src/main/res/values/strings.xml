@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ProjectForSchool</string>
+    <string name="name_game">Strategy Empires Wars</string>
+    <string name="to_game">Play</string>
+    <string name="to_records">Records</string>
+    <string name="to_exit">Exit</string>
+    <string name="to_rules">Rules</string>
+    <string name="to_return">Return</string>
+    <string name="to_play">Play</string>
+    <string name="is_player1">Player1</string>
+    <string name="name_first">Name</string>
+    <string name="is_player2">Player2</string>
+    <string name="name_second">Name</string>
+    <string name="empire_1">Empire_1</string>
+    <string name="empire_2">Empire_2</string>
+</resources>
